@@ -25,7 +25,7 @@ class HomeScreen extends StatelessWidget {
                 // Navigasi dengan mengirim data
                 Navigator.pushNamed(
                   context,
-                  '/settingsss',
+                  '/settings',
                   arguments: {
                     'username': 'JohnDoe'
                   }, // Data dikirim sebagai Map
