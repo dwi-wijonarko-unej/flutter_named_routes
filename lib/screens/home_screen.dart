@@ -27,7 +27,8 @@ class HomeScreen extends StatelessWidget {
                   context,
                   '/settings',
                   arguments: {
-                    'username': 'JohnDoe'
+                    'username': 'Dwi',
+                    'umur': 30
                   }, // Data dikirim sebagai Map
                 );
               },
